@@ -10,5 +10,7 @@ Requires-Dist: pyyaml
 Requires-Dist: imbalanced-learn
 Requires-Dist: lightgbm
 Requires-Dist: mlflow
+Requires-Dist: Flask==2.3.3
+Requires-Dist: Werkzeug==2.3.7
 Dynamic: author
 Dynamic: requires-dist
